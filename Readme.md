@@ -57,7 +57,30 @@ const developer = {
 
 <br clear="right"/>
 
-### 🌟 
+### 🌟 Murder Mystery Game
+<img align="right" width="250" src="https://via.placeholder.com/250x150/FF6B6B/FFFFFF?text=Murder+Mystery+Game" />
+
+- **Tech Stack**: React, Typescript, TailwindCSS, Gemini API
+- **Description**: [An AI powered game where you take on the role of a detective, question suspects and deduce the culprit]
+- 🔗 [Live Demo](can-you-beat-sherlock.vercel.app) | [GitHub](https://github.com/Agrim-Bansal/can-you-beat-sherlock)
+
+<br clear="right"/>
+
+### 🌟 Captain Burnbeard
+<img align="right" width="250" src="https://via.placeholder.com/250x150/FF6B6B/FFFFFF?text=Captain+Burnbeard" />
+
+- **Tech Stack**: React, Typescript, TailwindCSS, Gemini API
+- **Description**: [A fun webapp which generates playful insults in a pirate theme. Powered by Gemini AI]
+- 🔗 [Live Demo](https://capt-burnbeard.vercel.app) | [GitHub](https://github.com/Agrim-Bansal/CaptBurnbeard)
+
+<br clear="right"/>
+
+### 🌟 BrainFuck Interpreter
+<img align="right" width="250" src="https://via.placeholder.com/250x150/FF6B6B/FFFFFF?text=Captain+Burnbeard" />
+
+- **Tech Stack**: Vanilla Html, CSS, JS
+- **Description**: [A visual interpreter for the brainfuck programming language, allowing users to see how their code executes step by step.]
+- 🔗 [Live Demo](https://projects.agrimbansal.com/BrainFuckInterpreter/) | [GitHub](https://github.com/Agrim-Bansal/BrainFuckInterpreter)
 
 <br clear="right"/>
 
