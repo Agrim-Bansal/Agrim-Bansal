@@ -1,7 +1,7 @@
-# <div align="center">🚀 Welcome to Agrim's Coding Universe 🌌</div>
+# <div align="center">🚀 Welcome to My Universe 🌌</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=IIT+Delhi+CS+Student;AIR+155+JEE+Advanced;Full-Stack+Developer;Code+Craftsman" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=IIT+Delhi+CS+Undergrad;Full-Stack+Developer;Code+Craftsman;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <br>
@@ -11,8 +11,7 @@
 const developer = {
   name: "Agrim-Bansal",
   education: "Computer Science @ IIT Delhi",
-  achievement: "AIR 155 in JEE Advanced",
-  loves: ["Clean Code", "Problem Solving", "Learning New Tech"],
+  loves: ["Clean Code", "Solving Problems", "Learning Technical Skills"],
   currentFocus: "Finding Elegant Solutions to Complex Problems",
   hobbies: ["Reading", "Exploring New Technologies"],
 };
