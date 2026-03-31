@@ -34,12 +34,12 @@ const developer = {
 ### [Can You Beat Sherlock?](https://github.com/Agrim-Bansal/can-you-beat-sherlock)
 * **Tech Stack:** React, TypeScript, TailwindCSS, Gemini API
 * **Overview:** An immersive, AI-driven detective game leveraging Generative AI for dynamic, natural-language interrogations. Engineered to handle complex state management and real-time AI API interactions.
-* **Links:** [Repository](https://github.com/Agrim-Bansal/can-you-beat-sherlock) | [Live Demo](https://murder-mystery-umber.vercel.app/) 
+* **Links:** [Repository](https://github.com/Agrim-Bansal/can-you-beat-sherlock) | [Live Demo](https://can-you-beat-sherlock.vercel.app/)
 
 ### [Stock Simulator](https://github.com/Agrim-Bansal/Stock-Simulator)
 * **Tech Stack:** React, TypeScript, TailwindCSS, Firebase
 * **Overview:** A comprehensive stock market simulation platform featuring real-time data synchronization, virtual portfolio management, and advanced trading analytics.
-* **Links:** [Repository](https://github.com/Agrim-Bansal/Stock-Simulator) | [Live Demo](https://stock-simulator-umber.vercel.app/) 
+* **Links:** [Repository](https://github.com/Agrim-Bansal/Stock-Simulator) | [Live Demo](https://stock-simulator-beta.vercel.app/) 
 
 ### [BrainEffInterpreter](https://github.com/Agrim-Bansal/BrainEffInterpreter)
 * **Tech Stack:** Python for Terminal app. Vanilla HTML, CSS, JavaScript for web interface
